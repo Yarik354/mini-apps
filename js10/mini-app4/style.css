@@ -1,0 +1,8 @@
+p {
+    display: inline;
+    padding-right: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
